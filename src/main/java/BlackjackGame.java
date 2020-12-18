@@ -14,7 +14,6 @@ public class BlackjackGame {
     }
 
     public void play() {
-
     }
 
     public void initialize() {
